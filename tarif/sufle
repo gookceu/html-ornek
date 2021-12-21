@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sufle</title>
+  </head>
+  <body style="background-color:rgba(58, 51, 51, 0.616);">
+    <div>
+        <h1>Çikolatalı Sufle</h1>
+        <hr>
+        <p>Çikolatalı tatlıların en kısa sürede pişenlerinden, akışkan içi sayesinde öncelikle görsel şölen yaşatan ve yedikçe yemek isteyeceğiniz sufleyi hazırlamak, püf noktalarını dikkatlice okursanız oldukça pratik. Böylece her seferinde dışarı çıkıp bir kafede yediğiniz o harika sufleyi evde kendiniz yapabilecek, yemek tariflerinizin yanında sunabileceksiniz.</p>
+
+        <p style="text-align: center"><ins>3 Kişilik</ins> &emsp;&emsp;<ins>8 Dakika Hazırlama</ins>&emsp;&emsp; <ins>10 Dakika Pişirme</ins></p>
+        
+        <h4>Çikolatalı Sufle Tarifi İçin Malzemeler</h4>
+        <ul>
+            <li>125 gram bitter çikolata</li>
+            <li>125 mililitre süt</li>
+            <li>3 adet yumurta(sarıları ve beyazları ayrılmış)</li>
+            <li>2 yemek kaşığı tereyağı</li>
+            <li>1,5 yemek kaşığı un</li>
+            <li>1/4 çay kaşığı tuz</li>
+            <li>2 yemek kaşığı toz şeker</li>
+        </ul>
+            <p><b>Pişirme kaplarını yağlamak için:</b></p>
+        <ul>
+            <li>1 yemek kaşığı tereyağı</li>
+            <li>1 yemek kaşığı kakao</li>
+        </ul>
+            <p><b>Servisi için:</b></p>
+        <ul>
+            <li>1 yemek kaşığı pudra şekeri</li>
+        </ul>
+
+        <h4>Çikolatalı Sufle Tarifi Nasıl Yapılır?</h4>
+
+        <ol>
+            <li>125 mililitre sütü  bir sos tenceresine alın ve kaynama noktasına gelinceye kadar ısıtın.</li>
+            <li>İçerisine çikolatayı ilave edin. Çikolata eridikten sonra ocaktan alın.</li>
+            <li>Ayrı bir sos tenceresinde 2 yemek kaşığı tereyağını eritin.</li>
+            <li>Üzerine 1,5 yemek kaşığı unu ilave ederek, kokusu çıkana kadar kavurun.</li>
+            <li>Unun kokusu çıktıktan sonra çikolatalı süt karışımının içerisine ilave edin ve 2 yemek kaşığı toz şekeri ilave ederek sürekli olarak karıştırın.</li>
+            <li>3 adet yumurta sarılarını da ilave edin, 2 dakika daha karıştırdıktan sonra ocaktan alın ve soğumaya bırakın.</li>
+            <li>Derin bir kasede 3 adet  yumurta beyazlarını bir çimdik tuz ile birlikte kaseyi ters çevirdiğinizde akmayacak kıvama gelinceye kadar çırpın.</li>
+            <li>Soğumuş olan çikolatalı karışım ile köpük haline gelmiş yumurta aklarını birleştirin ve spatula yardımıyla karıştırın.</li>
+            <li>Yağlanmış ve kakao ile kaplanmış sufle kaplarına bir parmak boşluk kalacak şekilde harcı bölüştürün ve önceden ısıtılmış 200 derece fırında 10 dakika pişirin.</li>
+            <li>Fırından çıkar çıkmaz üzerine pudra şekeri serpiştirip servis edin.</li>
+        </ol>
+        <h4>Çikolatalı Sufle Kaç Kalori?</h4>
+        <p>1 porsiyon kolay çikolatalı sufle 480 kaloridir.</p>
+
+        <h3 style="text-align: center"> Afiyet olsun.</h3>
+    </div>
+</body>
+</html>
